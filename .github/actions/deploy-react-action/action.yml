@@ -6,15 +6,12 @@ branding:
     icon: code
 runs:
     using: "composite"
-    defaults:
-        shell: bash
-        working-directory: $CLIENT_DIR
     steps:
-        - run: npm i
-          shell: bash
-        - run: npm ci
-          shell: bash
-        - run: npm run build
+        - run: |
+              cd $CLIENT_DIR
+              npm i
+              npm ci
+              npm run build
           shell: bash
         - run: git config user.name github-actions
           shell: bash
