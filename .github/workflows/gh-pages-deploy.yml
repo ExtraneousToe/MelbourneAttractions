@@ -16,4 +16,4 @@ jobs:
             - name: Deploy react app to github pages
               uses: ./.github/actions/deploy-react-action
               env:
-                  CLIENT_DIR: ./MelbourneAttractionsProject/ClientApp/
+                  CLIENT_DIR: MelbourneAttractionsProject/ClientApp/
