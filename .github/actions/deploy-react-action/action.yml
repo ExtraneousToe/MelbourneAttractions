@@ -8,6 +8,7 @@ runs:
     using: "composite"
     steps:
         - run: cd $CLIENT_DIR
+          shell: bash
         - run: npm i
           shell: bash
         - run: npm ci
