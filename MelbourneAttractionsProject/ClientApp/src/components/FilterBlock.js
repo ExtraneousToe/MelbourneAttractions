@@ -14,10 +14,21 @@ export class FilterBlock extends Component {
 
         return (
             <div className="filterBlock">
-                <span><b>Display Types: </b></span>
-                <select onChange={() => this.props.onSelectionChanged()} id={this.props.selectionId}>
-                    {typesOutput}
-                </select>
+                <div>
+                    <span><b>Display Types: </b></span>
+                    <select
+                        onChange={(ev) => this.props.onSelectionChanged(ev)}
+                    >
+                        {typesOutput}
+                    </select>
+                </div>
+                <div>
+                    <span><b>Name: </b></span>
+                    <input
+                        type="text"
+                        onInput={(ev) => this.props.onNameInputChanged(ev)}
+                    />
+                </div>
             </div>
         );
     }
