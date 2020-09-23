@@ -1,0 +1,40 @@
+/* Provide sufficient contrast against white background */
+a {
+    color: #0366d6;
+}
+
+code {
+    color: #E01A76;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.attractionContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 95%;
+}
+
+.attractionItem {
+    width: 49%;
+    padding: 10px;
+    margin: 1px;
+    border: 1px solid rgb(200,200,200)
+}
+
+@media (max-width: 650px) {
+    .attractionItem {
+        width: 95%;
+    }
+}
+
+@media (min-width: 1500px) {
+    .attractionItem {
+        width: 30%;
+    }
+}

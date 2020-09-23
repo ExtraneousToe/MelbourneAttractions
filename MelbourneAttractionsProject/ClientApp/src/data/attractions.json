@@ -1,0 +1,111 @@
+[
+  {
+    "attraction": "Raising the Rattler Pole",
+    "type": "Street Art",
+    "website": "https://www.atlasobscura.com/places/raising-the-rattler-pole",
+    "cost": "Free"
+  },
+  {
+    "attraction": "State Library Gardens: 'Mr. Lizard and Gumnut Baby' Statue",
+    "type": "Garden",
+    "website": "https://www.atlasobscura.com/places/mr-lizard-and-the-gumnut-baby-statue",
+    "cost": "Free"
+  },
+  {
+    "attraction": "State Library Gardens: The Bunyip of Berkeley's Creek",
+    "type": "Garden",
+    "website": "https://www.atlasobscura.com/places/the-bunyip-of-berkeleys-creek-melbourne-australia",
+    "cost": "Free"
+  },
+  {
+    "attraction": "Polly Woodside",
+    "type": "Museum",
+    "website": "https://www.nationaltrust.org.au/places/polly-woodside/",
+    "cost": "$16"
+  },
+  {
+    "attraction": "Abbotsford Convent",
+    "type": "Art",
+    "website": "https://abbotsfordconvent.com.au/",
+    "cost": "Free"
+  },
+  {
+    "attraction": "Fire Services Museum of Victoria",
+    "type": "Museum",
+    "website": "https://fsmv.net.au/",
+    "cost": "$10"
+  },
+  {
+    "attraction": "Larry La Trobe Statue",
+    "type": "Street Art",
+    "website": "https://www.atlasobscura.com/places/larry-la-trobe-dog-statue",
+    "cost": "Free"
+  },
+  {
+    "attraction": "Captain Cook's Cottage",
+    "type": "Museum",
+    "website": "https://www.visitmelbourne.com/regions/Melbourne/Things-to-do/History-and-heritage/Heritage-buildings/Cooks-Cottage.aspx#tab-price",
+    "cost": "$6.70"
+  },
+
+  {
+    "attraction": "Marionette Fob Watch",
+    "type": "Street Art",
+    "website": "https://www.atlasobscura.com/places/marionette-fob-watch-melbourne-central",
+    "cost": "Free"
+  },
+  {
+    "attraction": "Melbourne Observatory",
+    "type": "Museum",
+    "website": "https://www.rbg.vic.gov.au/visit-melbourne/attractions/melbourne-observatory",
+    "cost": "??"
+  },
+  {
+    "attraction": "AC/DC Lane",
+    "type": "Street Art",
+    "website": "https://www.visitvictoria.com/regions/Melbourne/Destinations/Streets/VV-ACDC-Lane.aspx",
+    "cost": "Free"
+  },
+  {
+    "attraction": "Fitzroy Gardens - Fairies Tree",
+    "type": "Nature and Street Art",
+    "website": "https://www.fitzroygardens.com/Fairies_Tree.htm",
+    "cost": "Free"
+  },
+  {
+    "attraction": "Fitzroy Gardens - Tudor Village",
+    "type": "Nature and Street Art",
+    "website": "https://www.fitzroygardens.com/Tudor_Village.htm",
+    "cost": "Free"
+  },
+  {
+    "attraction": "Fitzroy Gardens - The Conservatory",
+    "type": "Nature and Street Art",
+    "website": "https://www.fitzroygardens.com/Index_Page.htm",
+    "cost": "Free"
+  },
+  {
+    "attraction": "Victoria Police Museum",
+    "type": "Museum",
+    "website": "https://www.policemuseum.vic.gov.au/",
+    "cost": "??"
+  },
+  {
+    "attraction": "State Library - Ned Kelly Armour",
+    "type": "Museum",
+    "website": "https://www.slv.vic.gov.au/",
+    "cost": "Free"
+  },
+  {
+    "attraction": "The Johnston Collection",
+    "type": "Museum",
+    "website": "https://johnstoncollection.org/",
+    "cost": "$27"
+  },
+  {
+    "attraction": "The Limelight Department",
+    "type": "Museum",
+    "website": "https://www.salvationarmy.org.au/about-us/our-story/interesting-facts/",
+    "cost": "??"
+  }
+]
