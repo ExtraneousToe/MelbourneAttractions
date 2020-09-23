@@ -8,7 +8,7 @@ runs:
     using: "composite"
     steps:
         - run: |
-              cd $CLIENT_DIR
+              git subtree split -P "$CLIENT_DIR" -b temp_branch
               npm i
               npm ci
               npm run build
