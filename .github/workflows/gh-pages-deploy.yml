@@ -14,9 +14,10 @@ jobs:
         steps:
             - uses: actions/checkout@v2
 
-            - run: cd MelbourneAttractions/MelbourneAttractions/MelbourneAttractionsProject/ClientApp
+            - run: ls -l
+            # - run: cd MelbourneAttractions/MelbourneAttractions/MelbourneAttractionsProject/ClientApp
 
-            - name: Deploy react app to github pages
-              # You may pin to the exact commit or the version.
-              # uses: tanwanimohit/deploy-react-to-ghpages@88c048cc9d31f67a792eec8cf9e94c10eb701dd2
-              uses: tanwanimohit/deploy-react-to-ghpages@v1.0.1
+            # - name: Deploy react app to github pages
+            # You may pin to the exact commit or the version.
+            # uses: tanwanimohit/deploy-react-to-ghpages@88c048cc9d31f67a792eec8cf9e94c10eb701dd2
+            #  uses: tanwanimohit/deploy-react-to-ghpages@v1.0.1
