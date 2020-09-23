@@ -14,6 +14,6 @@ jobs:
             # - run: cd
 
             - name: Deploy react app to github pages
-              uses: ./.github/actions/deplay-react-action
+              uses: ./.github/actions/deploy-react-action
               env:
                   CLIENT_DIR: ./MelbourneAttractionsProject/ClientApp/
