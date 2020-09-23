@@ -1,10 +1,6 @@
 ﻿import React, { Component } from "react";
 
 export class AttractionItem extends Component {
-    constructor(props) {
-        super(props);
-    }
-
     render() {
         const attraction = this.props.attraction;
 
@@ -14,7 +10,7 @@ export class AttractionItem extends Component {
                     <b>Attraction:</b> {attraction.attraction}
                 </div>
                 <div>
-                    <b>Website:</b> {attraction.website.length === 0 ? "No website" : <a href={attraction.website} target="_blank">Click</a>}
+                    <b>Website:</b> {attraction.website.length === 0 ? "No website" : <a href={attraction.website} target="_blank" rel="noopener noreferrer">Click</a>}
                 </div>
                 <div>
                     <b>Type:</b> {attraction.type}

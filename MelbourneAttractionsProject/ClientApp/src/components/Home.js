@@ -43,12 +43,14 @@ export class Home extends Component {
                 types = types.concat(jsonAttraction.type);
             }
 
-            if ((this.state.typeRestriction === "" || jsonAttraction.type == this.state.typeRestriction)
+            if ((this.state.typeRestriction === "" || jsonAttraction.type === this.state.typeRestriction)
                 && (this.state.nameRestriction === "" || jsonAttraction.attraction.toLowerCase().includes(this.state.nameRestriction.toLowerCase()))
             ) {
                 itemCount++;
                 return (<AttractionItem attraction={jsonAttraction} />);
             }
+
+            return "";
         });
 
         return (
