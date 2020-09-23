@@ -7,13 +7,13 @@
   },
   {
     "attraction": "State Library Gardens: 'Mr. Lizard and Gumnut Baby' Statue",
-    "type": "Garden",
+    "type": "Street Art",
     "website": "https://www.atlasobscura.com/places/mr-lizard-and-the-gumnut-baby-statue",
     "cost": "Free"
   },
   {
     "attraction": "State Library Gardens: The Bunyip of Berkeley's Creek",
-    "type": "Garden",
+    "type": "Street Art",
     "website": "https://www.atlasobscura.com/places/the-bunyip-of-berkeleys-creek-melbourne-australia",
     "cost": "Free"
   },
@@ -107,5 +107,748 @@
     "type": "Museum",
     "website": "https://www.salvationarmy.org.au/about-us/our-story/interesting-facts/",
     "cost": "??"
+  },
+  {
+    "attraction": "The Royal Arcade",
+    "type": "Street Art",
+    "website": "https://royalarcade.com.au/",
+    "cost": "Free"
+  },
+  {
+    "attraction": "St. Kilda Pier Penguin Colony",
+    "type": "Nature",
+    "website": "https://stkildapenguins.com.au/skp/?page_id=93",
+    "cost": "Free"
+  },
+  {
+    "attraction": "Old Melbourne Gaol",
+    "type": "Museum",
+    "website": "https://www.oldmelbournegaol.com.au/",
+    "cost": "$30"
+  },
+  {
+    "attraction": "Melbourne Medical Museum",
+    "type": "Museum",
+    "website": "https://medicalhistorymuseum.mdhs.unimelb.edu.au/",
+    "cost": "??"
+  },
+  {
+    "attraction": "Wunderkammer",
+    "type": "Museum/Shop",
+    "website": "https://wunderkammer.com.au/",
+    "cost": "??"
+  },
+  {
+    "attraction": "Como House and Garden",
+    "type": "Museum",
+    "website": "https://www.nationaltrust.org.au/places/como-house-and-garden/",
+    "cost": "$15"
+  },
+  {
+    "attraction": "Immigration Museum",
+    "type": "Museum",
+    "website": "https://museumsvictoria.com.au/immigrationmuseum",
+    "cost": "$15"
+  },
+  {
+    "attraction": "Melbourne Museum",
+    "type": "Museum",
+    "website": "https://museumsvictoria.com.au/melbournemuseum/",
+    "cost": "$15"
+  },
+  {
+    "attraction": "Hellenic Museum",
+    "type": "Museum",
+    "website": "https://www.hellenic.org.au/",
+    "cost": "$10"
+  },
+  {
+    "attraction": "ACMI",
+    "type": "Museum",
+    "website": "https://www.acmi.net.au/",
+    "cost": "Free"
+  },
+  {
+    "attraction": "Camberwell Sunday Market",
+    "type": "Market",
+    "website": "https://camberwellsundaymarket.org/",
+    "cost": "Free"
+  },
+  {
+    "attraction": "Fitzroy Market",
+    "type": "Market",
+    "website": "https://www.fitzroymarket.com/",
+    "cost": "Free"
+  },
+  {
+    "attraction": "Rose Street Market",
+    "type": "Market",
+    "website": "https://www.rosestmarket.com.au/",
+    "cost": "Free"
+  },
+  {
+    "attraction": "Queen Victoria Market",
+    "type": "Market",
+    "website": "https://qvm.com.au/",
+    "cost": "Free"
+  },
+  {
+    "attraction": "Cat Cafe Melbourne",
+    "type": "Food",
+    "website": "https://catcafemelbourne.com/",
+    "cost": "$25"
+  },
+  {
+    "attraction": "Kryal Castle",
+    "type": "Entertainment",
+    "website": "https://www.kryalcastle.com.au/",
+    "cost": "$35"
+  },
+  {
+    "attraction": "Melbourne Star",
+    "type": "Entertainment",
+    "website": "https://melbournestar.com/",
+    "cost": "$27"
+  },
+  {
+    "attraction": "Shrine of Remembrance",
+    "type": "Museum",
+    "website": "https://www.shrine.org.au/shrine-home-page",
+    "cost": "Free"
+  },
+  {
+    "attraction": "Australian Sports Museum",
+    "type": "Museum",
+    "website": "https://www.mcg.org.au/things-to-do/australian-sports-museum",
+    "cost": "$30"
+  },
+
+
+  {
+    "attraction": "National Gallery Victoria",
+    "type": "Museum",
+    "website": "https://www.ngv.vic.gov.au/",
+    "cost": "Free"
+  },
+  {
+    "attraction": "Melbourne Arts Centre",
+    "type": "Entertainment",
+    "website": "https://www.artscentremelbourne.com.au/",
+    "cost": "??"
+  },
+
+  {
+    "attraction": "Royal Botanic Gardens Victoria",
+    "type": "Nature",
+    "website": "https://www.rbg.vic.gov.au/",
+    "cost": "Free"
+  },
+
+  {
+    "attraction": "Eureka Sky Deck",
+    "type": "Entertainment",
+    "website": "https://www.eurekaskydeck.com.au/eureka-home/",
+    "cost": "??"
+  },
+
+  {
+    "attraction": "Federation Square",
+    "type": "Street Art",
+    "website": "https://fedsquare.com/",
+    "cost": "Free"
+  },
+
+  {
+    "attraction": "Fruition",
+    "type": "Street Art",
+    "website": "https://whatson.melbourne.vic.gov.au/things-to-do/fruition",
+    "cost": "Free"
+  },
+
+  {
+    "attraction": "Federation Bells",
+    "type": "Street Art",
+    "website": "https://whatson.melbourne.vic.gov.au/things-to-do/federation-bells",
+    "cost": "Free"
+  },
+
+  {
+    "attraction": "Melbourne Music walk",
+    "type": "Street Art",
+    "website": "https://whatson.melbourne.vic.gov.au/things-to-do/walks/music",
+    "cost": "Free"
+  },
+
+  {
+    "attraction": "Aboriginal Melbourne walk",
+    "type": "Street Art",
+    "website": "https://whatson.melbourne.vic.gov.au/things-to-do/walks/aboriginal-melbourne",
+    "cost": "Free"
+  },
+  {
+    "attraction": "Arcades and lanes walk",
+    "type": "Street Art",
+    "website": "https://whatson.melbourne.vic.gov.au/things-to-do/walks/arcades-and-lanes",
+    "cost": "Free"
+  },
+  {
+    "attraction": "A walk in the park",
+    "type": "Street Art",
+    "website": "https://whatson.melbourne.vic.gov.au/things-to-do/walks/park",
+    "cost": "Free"
+  },
+  {
+    "attraction": "Chinese Museum",
+    "type": "Museum",
+    "website": "https://www.chinesemuseum.com.au/",
+    "cost": "$11"
+  },
+  {
+    "attraction": "Australian Centre for Contemporary Art",
+    "type": "Museum",
+    "website": "https://acca.melbourne/",
+    "cost": "Free"
+  },
+  {
+    "attraction": "Koorie Heritage Trust",
+    "type": "Museum",
+    "website": "https://koorieheritagetrust.com.au/",
+    "cost": "Free"
+  },
+  {
+    "attraction": "Bridget McDonnell Gallery",
+    "type": "Museum",
+    "website": "https://www.bridgetmcdonnellgallery.com.au/home/",
+    "cost": "??"
+  },
+  {
+    "attraction": "Mission to Seafarers Victoria",
+    "type": "Museum",
+    "website": "https://missiontoseafarers.com.au/",
+    "cost": "??"
+  },
+  {
+    "attraction": "Outre Gallery",
+    "type": "Museum",
+    "website": "https://www.outregallery.com/",
+    "cost": "??"
+  },
+  {
+    "attraction": "Grainger Museum",
+    "type": "Museum",
+    "website": "https://grainger.unimelb.edu.au",
+    "cost": "Free"
+  },
+  {
+    "attraction": "College of Surgeons' Museum",
+    "type": "Museum",
+    "website": "https://www.surgeons.org/about-racs/about-the-college-of-surgeons/museum-and-art-gallery#",
+    "cost": "$2"
+  },
+  {
+    "attraction": "Docklands Park",
+    "type": "Nature",
+    "website": "https://whatson.melbourne.vic.gov.au/things-to-do/docklands-park",
+    "cost": "Free"
+  },
+  {
+    "attraction": "Westgate Park",
+    "type": "Nature",
+    "website": "https://whatson.melbourne.vic.gov.au/things-to-do/westgate-park",
+    "cost": "Free"
+  },
+  {
+    "attraction": "Birrarung Marr",
+    "type": "Nature",
+    "website": "https://whatson.melbourne.vic.gov.au/things-to-do/birrarung-marr",
+    "cost": "Free"
+  },
+  {
+    "attraction": "Monument Park",
+    "type": "Nature",
+    "website": "https://whatson.melbourne.vic.gov.au/things-to-do/monument-park",
+    "cost": "Free"
+  },
+  {
+    "attraction": "Kings Domain",
+    "type": "Nature",
+    "website": "https://whatson.melbourne.vic.gov.au/things-to-do/kings-domain",
+    "cost": "Free"
+  },
+  {
+    "attraction": "CBD Street Art",
+    "type": "Street Art",
+    "website": "https://whatson.melbourne.vic.gov.au/things-to-do/street-art",
+    "cost": "Free"
+  },
+  {
+    "attraction": "Bunjilaka",
+    "type": "Museum",
+    "website": "https://museumsvictoria.com.au/bunjilaka/",
+    "cost": "$15"
+  },
+
+  {
+    "attraction": "Ian Potter Centre: NGV Australia",
+    "type": "Museum",
+    "website": "",
+    "cost": "Free"
+  },
+
+  {
+    "attraction": "Original and Authentic Aboriginal Art",
+    "type": "Museum",
+    "website": "https://authaboriginalart.com.au/",
+    "cost": ""
+  },
+
+  {
+    "attraction": "Parliament Gardens - Great Petition Sculpture",
+    "type": "Nature/Street Art",
+    "website": "https://www.tripadvisor.com/Attraction_Review-g255100-d12588820-Reviews-Great_Petition_Sculpture-Melbourne_Victoria.html",
+    "cost": "Free"
+  },
+
+  {
+    "attraction": "Cow Up a Tree Sculpture",
+    "type": "Street Art",
+    "website": "https://www.tripadvisor.com/Attraction_Review-g255100-d12192025-Reviews-Cow_Up_a_Tree_Sculpture-Melbourne_Victoria.html",
+    "cost": "Free"
+  },
+
+  {
+    "attraction": "Museo Italiano",
+    "type": "Museum",
+    "website": "https://www.coasit.com.au/museoitaliano",
+    "cost": "Free"
+  },
+
+  {
+    "attraction": "Tree Fern Gully Track - 1000 steps",
+    "type": "Nature",
+    "website": "https://www.tripadvisor.com/Attraction_Review-g255100-d2365025-Reviews-Tree_Fern_Gully_Track-Melbourne_Victoria.html",
+    "cost": "Free"
+  },
+
+  {
+    "attraction": "Australian Music Vault",
+    "type": "Museum",
+    "website": "https://www.australianmusicvault.com.au/learn",
+    "cost": "Free"
+  },
+
+  {
+    "attraction": "National Opal Collection",
+    "type": "Museum",
+    "website": "https://www.nationalopal.com/",
+    "cost": "Free"
+  },
+
+  {
+    "attraction": "ANZ Bank Museum",
+    "type": "Museum",
+    "website": "https://www.anz.com/shareholder/centre/about/history/banking-museum/",
+    "cost": "Free"
+  },
+
+  {
+    "attraction": "Old Treasury Building",
+    "type": "Museum",
+    "website": "https://www.oldtreasurybuilding.org.au/",
+    "cost": "Free"
+  },
+
+  {
+    "attraction": "South Melbourne Market",
+    "type": "Market",
+    "website": "https://southmelbournemarket.com.au/",
+    "cost": "Free"
+  },
+
+  {
+    "attraction": "ArtVo",
+    "type": "Museum",
+    "website": "https://www.artvo.com.au/",
+    "cost": "$28"
+  },
+
+  {
+    "attraction": "Mary Mackillop Heritage Centre",
+    "type": "Museum",
+    "website": "https://www.tripadvisor.com/Attraction_Review-g255100-d7360245-Reviews-Mary_Mackillop_Heritage_Centre-Melbourne_Victoria.html",
+    "cost": "??"
+  },
+
+  {
+    "attraction": "Duldig Studio",
+    "type": "Museum",
+    "website": "https://www.duldig.org.au/",
+    "cost": "$20"
+  },
+
+  {
+    "attraction": "History of Transport Mural",
+    "type": "Street Art",
+    "website": "https://www.tripadvisor.com/Attraction_Review-g255100-d12116511-Reviews-History_of_Transport_Mural-Melbourne_Victoria.html",
+    "cost": "Free"
+  },
+
+  {
+    "attraction": "Tonka",
+    "type": "Food",
+    "website": "https://www.tonkarestaurant.com.au/eat/",
+    "cost": "$$$"
+  },
+
+  {
+    "attraction": "Hanoi Hannah",
+    "type": "Food",
+    "website": "https://hanoihannah.com.au/",
+    "cost": "$$$"
+  },
+
+  {
+    "attraction": "Fonda",
+    "type": "Food",
+    "website": "https://www.fondamexican.com.au/",
+    "cost": "$$"
+  },
+
+  {
+    "attraction": "Europa",
+    "type": "Food",
+    "website": "https://europacakeshop.com.au/",
+    "cost": "$$"
+  },
+
+  {
+    "attraction": "Monarch Cakes",
+    "type": "Food",
+    "website": "https://www.monarchcakes.com.au/",
+    "cost": "?"
+  },
+
+  {
+    "attraction": "Lune Croissanterie",
+    "type": "Food",
+    "website": "https://www.lunecroissanterie.com/",
+    "cost": "$"
+  },
+
+  {
+    "attraction": "Mister Nice Guy",
+    "type": "Food",
+    "website": "https://www.misterniceguy.com.au/",
+    "cost": "$"
+  },
+
+  {
+    "attraction": "Attica",
+    "type": "Food",
+    "website": "https://www.attica.com.au/",
+    "cost": "$$$$"
+  },
+
+  {
+    "attraction": "Kayak",
+    "type": "Entertainment",
+    "website": "https://www.seakayakaustralia.com/tour-item/melbourne-city-twilight-kayak-tour/",
+    "cost": "$89"
+  },
+
+  {
+    "attraction": "Mrs Singh",
+    "type": "Food",
+    "website": "https://www.mrssingh.com.au/",
+    "cost": "$$$"
+  },
+
+  {
+    "attraction": "Pie Thief",
+    "type": "Food",
+    "website": "https://piethief.com.au/",
+    "cost": "$"
+  },
+
+  {
+    "attraction": "Arbory",
+    "type": "Food",
+    "website": "https://arbory.com.au/",
+    "cost": "$$"
+  },
+
+  {
+    "attraction": "Pinchy's",
+    "type": "Food",
+    "website": "https://www.pinchys.co/",
+    "cost": "$$"
+  },
+
+  {
+    "attraction": "Supernormal",
+    "type": "Food",
+    "website": "https://supernormal.net.au/",
+    "cost": "$$"
+  },
+
+  {
+    "attraction": "Pidapipo",
+    "type": "Food",
+    "website": "https://pidapipo.com/",
+    "cost": "$"
+  },
+
+  {
+    "attraction": "Betty's Burgers and Concrete Co.",
+    "type": "Food",
+    "website": "https://www.bettysburgers.com.au/",
+    "cost": "$"
+  },
+  {
+    "attraction": "Delhi Streets Indian Street Food",
+    "type": "Food",
+    "website": "https://www.delhistreets.com.au/",
+    "cost": "$"
+  },
+  {
+    "attraction": "Metro Burger",
+    "type": "Food",
+    "website": "https://m.facebook.com/Metro-Burgers-1704408553115581/",
+    "cost": "$"
+  },
+  {
+    "attraction": "Brother Bababudan",
+    "type": "Food",
+    "website": "https://www.tripadvisor.com.au/Restaurant_Review-g255100-d794969-Reviews-Brother_Baba_Budan-Melbourne_Victoria.html",
+    "cost": "$"
+  },
+  {
+    "attraction": "Sushi Hub Swanston",
+    "type": "Food",
+    "website": "sushihub.com.au",
+    "cost": "$"
+  },
+  {
+    "attraction": "Laksa King",
+    "type": "Food",
+    "website": "https://www.laksaking.com.au/flemington/",
+    "cost": "$$"
+  },
+  {
+    "attraction": "IL Dolce Freddo",
+    "type": "Food",
+    "website": "https://www.facebook.com/ildolcefreddoAU/",
+    "cost": "$"
+  },
+  {
+    "attraction": "Shanghai Street",
+    "type": "Food",
+    "website": "https://www.shanghaistreet.com.au/",
+    "cost": "$$"
+  },
+  {
+    "attraction": "Cherry & Twigs",
+    "type": "Food",
+    "website": "https://www.cherryandtwigs.com.au/",
+    "cost": "$"
+  },
+  {
+    "attraction": "Royal Stacks",
+    "type": "Food",
+    "website": "https://www.royalstacks.com.au",
+    "cost": "$"
+  },
+  {
+    "attraction": "Spicy Korea",
+    "type": "Food",
+    "website": "https://www.facebook.com/BKsoutherncorss/shop?rid=530157130340957&rt=6&referral_code=page_shop_card",
+    "cost": "$$"
+  },
+  {
+    "attraction": "Walkers Doughnuts",
+    "type": "Food",
+    "website": "https://walkersdoughnuts.com.au/",
+    "cost": "$"
+  },
+  {
+    "attraction": "Borek bakehouse",
+    "type": "Food",
+    "website": "https://www.tripadvisor.com.au/Restaurant_Review-g255100-d4093309-Reviews-Borek_bakehouse-Melbourne_Victoria.html",
+    "cost": "$"
+  },
+  {
+    "attraction": "Miznon Australia",
+    "type": "Food",
+    "website": "miznonaustralia.com",
+    "cost": "$$"
+  },
+  {
+    "attraction": "Aix Cafe Creperie Salon",
+    "type": "Food",
+    "website": "https://www.tripadvisor.com.au/Restaurant_Review-g255100-d3545464-Reviews-Aix_Cafe_Creperie_Salon-Melbourne_Victoria.html",
+    "cost": "$"
+  },
+  {
+    "attraction": "Tokui Sushi",
+    "type": "Food",
+    "website": "https://www.facebook.com/pages/Tokui-Sushi/164240646948229",
+    "cost": "$"
+  },
+  {
+    "attraction": "Bratwurst Shop & Co",
+    "type": "Food",
+    "website": "www.bratwurstshop.com",
+    "cost": "$"
+  },
+  {
+    "attraction": "Wonderbao",
+    "type": "Food",
+    "website": "https://www.tripadvisor.com.au/Restaurant_Review-g255100-d3677814-Reviews-Wonderbao-Melbourne_Victoria.html",
+    "cost": "$"
+  },
+  {
+    "attraction": "Batch",
+    "type": "Food",
+    "website": "https://www.tripadvisor.com.au/Restaurant_Review-g255100-d1111251-Reviews-Batch-Melbourne_Victoria.html",
+    "cost": "$$"
+  },
+  {
+    "attraction": "Skewer'd",
+    "type": "Food",
+    "website": "https://www.skewerdmeat.com.au/",
+    "cost": "$"
+  },
+  {
+    "attraction": "F.A.T. Fried and Tasty",
+    "type": "Food",
+    "website": "https://www.friedandtasty.com/",
+    "cost": "$"
+  },
+  {
+    "attraction": "5 and Dime Bagels",
+    "type": "Food",
+    "website": "https://www.5dimebagel.com.au/",
+    "cost": "$"
+  },
+  {
+    "attraction": "Hawker Boys",
+    "type": "Food",
+    "website": "https://www.tripadvisor.com.au/Restaurant_Review-g255100-d10469264-Reviews-Hawker_Boys-Melbourne_Victoria.html",
+    "cost": "$$"
+  },
+  {
+    "attraction": "Waffle On",
+    "type": "Food",
+    "website": "https://www.tripadvisor.com.au/Restaurant_Review-g255100-d4791738-Reviews-Waffle_On-Melbourne_Victoria.html",
+    "cost": "$"
+  },
+  {
+    "attraction": "Schmucks Bagels",
+    "type": "Food",
+    "website": "https://schmucksbagels.com.au/menu/",
+    "cost": "$"
+  },
+  {
+    "attraction": "Gelateria Primavera",
+    "type": "Food",
+    "website": "https://www.tripadvisor.com.au/Restaurant_Review-g255100-d10177728-Reviews-Gelateria_Primavera-Melbourne_Victoria.html",
+    "cost": "$"
+  },
+  {
+    "attraction": "Tom Thumb",
+    "type": "Food",
+    "website": "https://www.tripadvisor.com.au/Restaurant_Review-g255100-d4753915-Reviews-Tom_Thumb-Melbourne_Victoria.html",
+    "cost": "$"
+  },
+  {
+    "attraction": "Donutopia",
+    "type": "Food",
+    "website": "https://www.donutopia.com.au/",
+    "cost": "$"
+  },
+  {
+    "attraction": "Drums Cafe",
+    "type": "Food",
+    "website": "https://www.tripadvisor.com.au/Restaurant_Review-g255100-d4471252-Reviews-Drums_Cafe-Melbourne_Victoria.html",
+    "cost": "$$"
+  },
+  {
+    "attraction": "Good 2 Go",
+    "type": "Food",
+    "website": "https://www.tripadvisor.com.au/Restaurant_Review-g255100-d8000680-Reviews-Good_2_Go-Melbourne_Victoria.html",
+    "cost": "$"
+  },
+  {
+    "attraction": "Hello Sam",
+    "type": "Food",
+    "website": "https://hellosam.com.au/",
+    "cost": "$$"
+  },
+  {
+    "attraction": "Husband",
+    "type": "Food",
+    "website": "https://www.husbandsouthyarra.com.au/",
+    "cost": "$"
+  },
+  {
+    "attraction": "Brown Bagels",
+    "type": "Food",
+    "website": "https://www.tripadvisor.com.au/Restaurant_Review-g255100-d5285946-Reviews-Brown_Bagels-Melbourne_Victoria.html",
+    "cost": "$"
+  },
+  {
+    "attraction": "4Fingers Crispy Chicken",
+    "type": "Food",
+    "website": "https://www.tripadvisor.com.au/Restaurant_Review-g255100-d12617433-Reviews-4Fingers_Crispy_Chicken-Melbourne_Victoria.html",
+    "cost": "$$"
+  },
+  {
+    "attraction": "Hunters and Disciples",
+    "type": "Food",
+    "website": "https://www.huntersdisciples.com.au/",
+    "cost": "$$"
+  },
+  {
+    "attraction": "Geloso Gelateria",
+    "type": "Food",
+    "website": "https://www.tripadvisor.com.au/Restaurant_Review-g255100-d13329416-Reviews-Geloso_Gelateria-Melbourne_Victoria.html",
+    "cost": "$"
+  },
+  {
+    "attraction": "Bad Boys",
+    "type": "Food",
+    "website": "https://www.tripadvisor.com.au/Restaurant_Review-g255100-d7616137-Reviews-Bad_Boys-Melbourne_Victoria.html",
+    "cost": "$"
+  },
+  {
+    "attraction": "Brick Lane Melbourne",
+    "type": "Food",
+    "website": "https://www.tripadvisor.com.au/Restaurant_Review-g255100-d10536000-Reviews-Brick_Lane_Melbourne-Melbourne_Victoria.html",
+    "cost": "$$"
+  },
+  {
+    "attraction": "The Hardware Societe",
+    "type": "Food",
+    "website": "hardwaresociete.com",
+    "cost": "$$"
+  },
+  {
+    "attraction": "Hash Specialty Coffee",
+    "type": "Food",
+    "website": "https://www.zomato.com/melbourne/hash-specialty-coffee-1-cbd/menu",
+    "cost": "$$"
+  },
+  {
+    "attraction": "Da Guido 365",
+    "type": "Food",
+    "website": "https://www.daguido365.com/",
+    "cost": "$$$"
+  },
+  {
+    "attraction": "11 Inch Pizza",
+    "type": "Food",
+    "website": "https://www.11inchpizza.com.au/",
+    "cost": "$$"
   }
+
 ]

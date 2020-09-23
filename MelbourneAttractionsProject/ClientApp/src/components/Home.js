@@ -34,6 +34,7 @@ export class Home extends Component {
     render() {
 
         let types = [""];
+        let itemCount = 0;
 
         let mappedOutput = attractions.map((k, v) => {
             var jsonAttraction = k;
@@ -45,6 +46,7 @@ export class Home extends Component {
             if ((this.state.typeRestriction === "" || jsonAttraction.type == this.state.typeRestriction)
                 && (this.state.nameRestriction === "" || jsonAttraction.attraction.toLowerCase().includes(this.state.nameRestriction.toLowerCase()))
             ) {
+                itemCount++;
                 return (<AttractionItem attraction={jsonAttraction} />);
             }
         });
@@ -56,6 +58,9 @@ export class Home extends Component {
                     onSelectionChanged={this.handleSelection}
                     onNameInputChanged={this.handleNameChanged}
                 />
+                <div>
+                    <b>Item Count: </b> {itemCount}
+                </div>
                 <div className="attractionContainer">
                     {mappedOutput}
                 </div>
