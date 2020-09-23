@@ -14,7 +14,7 @@ export class AttractionItem extends Component {
                     <b>Attraction:</b> {attraction.attraction}
                 </div>
                 <div>
-                    <b>Website:</b> {attraction.website.length === 0 ? "" : <a href={attraction.website} target="_blank">Click</a>}
+                    <b>Website:</b> {attraction.website.length === 0 ? "No website" : <a href={attraction.website} target="_blank">Click</a>}
                 </div>
                 <div>
                     <b>Type:</b> {attraction.type}
