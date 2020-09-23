@@ -7,11 +7,12 @@ branding:
 runs:
     using: "composite"
     steps:
-        - run: npm i $CLIENT_DIR
+        - run: cd $CLIENT_DIR
+        - run: npm i
           shell: bash
-        - run: npm ci $CLIENT_DIR
+        - run: npm ci
           shell: bash
-        - run: npm run build $CLIENT_DIR
+        - run: npm run build
           shell: bash
         - run: git config user.name github-actions
           shell: bash
