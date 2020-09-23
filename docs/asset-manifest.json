@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.d5059e4a.chunk.css",
-    "main.js": "/static/js/main.0132c762.chunk.js",
-    "main.js.map": "/static/js/main.0132c762.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.099483aa.js",
-    "runtime-main.js.map": "/static/js/runtime-main.099483aa.js.map",
-    "static/css/2.74189dbb.chunk.css": "/static/css/2.74189dbb.chunk.css",
-    "static/js/2.3af69764.chunk.js": "/static/js/2.3af69764.chunk.js",
-    "static/js/2.3af69764.chunk.js.map": "/static/js/2.3af69764.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.8fcfd036b4cb1874e3eaff0454200b44.js": "/precache-manifest.8fcfd036b4cb1874e3eaff0454200b44.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.74189dbb.chunk.css.map": "/static/css/2.74189dbb.chunk.css.map",
-    "static/css/main.d5059e4a.chunk.css.map": "/static/css/main.d5059e4a.chunk.css.map",
-    "static/js/2.3af69764.chunk.js.LICENSE.txt": "/static/js/2.3af69764.chunk.js.LICENSE.txt"
+    "main.css": "/MelbourneAttractions/static/css/main.d5059e4a.chunk.css",
+    "main.js": "/MelbourneAttractions/static/js/main.effeeddf.chunk.js",
+    "main.js.map": "/MelbourneAttractions/static/js/main.effeeddf.chunk.js.map",
+    "runtime-main.js": "/MelbourneAttractions/static/js/runtime-main.d52d40e1.js",
+    "runtime-main.js.map": "/MelbourneAttractions/static/js/runtime-main.d52d40e1.js.map",
+    "static/css/2.74189dbb.chunk.css": "/MelbourneAttractions/static/css/2.74189dbb.chunk.css",
+    "static/js/2.3af69764.chunk.js": "/MelbourneAttractions/static/js/2.3af69764.chunk.js",
+    "static/js/2.3af69764.chunk.js.map": "/MelbourneAttractions/static/js/2.3af69764.chunk.js.map",
+    "index.html": "/MelbourneAttractions/index.html",
+    "precache-manifest.cf1716d4093543e454aa2ce29422e3ee.js": "/MelbourneAttractions/precache-manifest.cf1716d4093543e454aa2ce29422e3ee.js",
+    "service-worker.js": "/MelbourneAttractions/service-worker.js",
+    "static/css/2.74189dbb.chunk.css.map": "/MelbourneAttractions/static/css/2.74189dbb.chunk.css.map",
+    "static/css/main.d5059e4a.chunk.css.map": "/MelbourneAttractions/static/css/main.d5059e4a.chunk.css.map",
+    "static/js/2.3af69764.chunk.js.LICENSE.txt": "/MelbourneAttractions/static/js/2.3af69764.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.099483aa.js",
+    "static/js/runtime-main.d52d40e1.js",
     "static/css/2.74189dbb.chunk.css",
     "static/js/2.3af69764.chunk.js",
     "static/css/main.d5059e4a.chunk.css",
-    "static/js/main.0132c762.chunk.js"
+    "static/js/main.effeeddf.chunk.js"
   ]
 }
