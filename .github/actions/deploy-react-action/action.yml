@@ -6,9 +6,10 @@ branding:
     icon: code
 runs:
     using: "composite"
+    defaults:
+        shell: bash
+        working-directory: $CLIENT_DIR
     steps:
-        - run: cd $CLIENT_DIR
-          shell: bash
         - run: npm i
           shell: bash
         - run: npm ci
